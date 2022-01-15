@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/app_nav_graph"
+    app:startDestination="@id/mainScreenFragment">
+    <action
+        android:id="@+id/toMainScreen"
+        app:destination="@id/mainScreenFragment"/>
+    <action
+        android:id="@+id/toDetailScreen"
+        app:destination="@id/detailScreenFragment"/>
+
+    <fragment
+        android:id="@+id/mainScreenFragment"
+        android:name="com.github.rahul_gill.movieapp.ui.MainScreenFragment"
+        android:label="MainScreenFragment" >
+        <argument
+            android:name="initiatedForSearch"
+            app:argType="boolean"
+            android:defaultValue="false" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/detailScreenFragment"
+        android:name="com.github.rahul_gill.movieapp.ui.DetailScreenFragment"
+        android:label="DetailScreenFragment" >
+        <argument
+            android:name="id"
+            app:argType="integer" />
+    </fragment>
+</navigation>

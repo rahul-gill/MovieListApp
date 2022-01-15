@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/gradient_over.xml" value="0.3703125" />
+        <entry key="app/src/main/res/drawable/ic_baseline_star_outline_24.xml" value="0.3703125" />
+        <entry key="app/src/main/res/drawable/ic_icon.xml" value="0.3703125" />
+        <entry key="app/src/main/res/drawable/ic_logo.xml" value="0.3703125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/detail_screen_layout.xml" value="0.47752808988764045" />
+        <entry key="app/src/main/res/layout/main_screen_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/main_screen_list_movie_item.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/movie_list_item.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/movies_list_placeholder_item.xml" value="0.196875" />
+        <entry key="app/src/main/res/layout/moview_list_placeholder_item.xml" value="0.7367387033398821" />
+        <entry key="app/src/main/res/layout/search_screen_layout.xml" value="0.21829710144927536" />
+        <entry key="app/src/main/res/layout/search_view_layout.xml" value="0.28894927536231885" />
+        <entry key="app/src/main/res/layout/single_detail_item.xml" value="0.47255038220986795" />
+        <entry key="app/src/main/res/menu-v26/action_bar_menu.xml" value="0.3541666666666667" />
+        <entry key="app/src/main/res/menu/action_bar_menu.xml" value="0.3541666666666667" />
+        <entry key="app/src/main/res/menu/bottom_navigation_items.xml" value="0.3541666666666667" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_app_icon.xml" value="0.3703125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3703125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3703125" />
+        <entry key="app/src/main/res/xml/search_config.xml" value="0.28894927536231885" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
